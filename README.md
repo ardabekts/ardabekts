@@ -1,16 +1,35 @@
-## Hi there 👋
+# Selam! 👋 Ben Arda.
 
-<!--
-**ardabekts/ardabekts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir **Mekatronik Meslek Yükseokulu** mezunuyum ve aynı zamanda hobi olarak **Web Ön Yüz Geliştiricisi**yim. Teknolojiye ve otomasyon sistemlerine olan ilgim sayesinde hem endüstriyel otomasyon hem de web geliştirme alanlarında projeler üretebiliyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Yeteneklerim
+
+### Mekatronik & Otomasyon
+- PLC Programlama (Ladder Diagram)
+- Factory IO Simülasyonları
+- Mekatronik sistem tasarımı ve uygulamaları
+
+### Web Geliştirme
+- HTML / CSS / JavaScript
+- Responsive ve modern ön yüz tasarımları
+- Temel interaktif web uygulamaları
+
+---
+
+## 💼 Projelerim
+
+- **PLC Simülasyon Projeleri**: Factory IO üzerinde çeşitli otomasyon senaryolarını simüle ettim.  
+- **Web Sitesi**: 
+
+---
+
+## 📫 İletişim
+
+- LinkedIn: https://www.linkedin.com/in/ardabekts
+- E-mail: mailto:Ardabektas00@outlook.com
+
+---
+
+> "Teknolojiyi anlamak ve uygulamak, geleceği şekillendirmektir.
