@@ -21,14 +21,16 @@ Ben bir **Mekatronik Meslek Yükseokulu** mezunuyum ve aynı zamanda hobi olarak
 ## 💼 Projelerim
 
 - **PLC Simülasyon Projeleri**: Factory IO üzerinde çeşitli otomasyon senaryolarını simüle ettim.  
-- **Web Sitesi**: 
+- **Varhan Development Projesi (Frontend)**: HTML, CSS ve JavaScript kullanarak geliştirdiğim modern bir web arayüzü.  
+- **Bridge Global Projesi (Frontend)**: Şirket için geliştirdiğim kullanıcı dostu web ön yüzü projesi.  
+
 
 ---
 
 ## 📫 İletişim
 
 - LinkedIn: https://www.linkedin.com/in/ardabekts
-- E-mail: mailto:Ardabektas00@outlook.com
+- E-mail: ArdaBektas00@outlook.com
 
 ---
 
